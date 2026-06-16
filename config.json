@@ -1,0 +1,22 @@
+{
+  "title": "Thunder Blast: Wars",
+  "template": "chess",
+  "theme": "neon",
+  "token": "TBW",
+  "params": {
+    "CANVAS_W": "400",
+    "CANVAS_H": "600",
+    "PLAYER_W": "30",
+    "PLAYER_H": "30",
+    "GRAVITY": "0.5",
+    "JUMP_FORCE": "-8",
+    "OBSTACLE_SPEED": "3",
+    "SPAWN_RATE": "80",
+    "OBSTACLE_W": "25",
+    "OBSTACLE_MIN_H": "40",
+    "OBSTACLE_MAX_H": "120",
+    "GROUND_H": "60"
+  },
+  "version": "2.0",
+  "engine": "Red Engine V2"
+}
